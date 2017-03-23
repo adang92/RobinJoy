@@ -18,4 +18,24 @@
     <!-- Strings related to home page -->
 
 
+    <!-- Strings related to requests -->
+
+    <string name="categories_prompt">Choose a Category</string>
+    <string name="item_prompt">Choose an Item</string>
+
+    <string-array name="Categories">
+        <item>Hygiene</item>
+        <item>Food</item>
+    </string-array>
+
+    <string-array name="Hygiene">
+        <item>Towel</item>
+        <item>Kleenex</item>
+    </string-array>
+
+    <string-array name="Food">
+        <item>Meal</item>
+        <item>Water</item>
+    </string-array>
+
 </resources>
